@@ -1,5 +1,5 @@
 # IMDb-Scrapper
-A simple movie scrapping tool.
+A basic movie scrapping tool.
 It scraps the important and useful data of the most popular movies from imdb website. 
 
 # Note
